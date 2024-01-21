@@ -13,7 +13,7 @@ function About() {
         </a>{' '}
         Udemy course by
         <strong>
-          <a href='https://www.instagram.com/alpha._green?utm_source=qr&igsh=YWlpZ21zZ2xwcDV1'> ALPHA KWIZERA</a>
+          <a href='https://www.instagram.com/alpha._green?utm_source=qr&igsh=YWlpZ21zZ2xwcDV1'> ALPHA KWIZERA...</a>
         </strong>
         .
       </p>
