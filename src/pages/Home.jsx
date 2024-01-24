@@ -1,11 +1,11 @@
 import React from 'react'
 import UserResults from '../components/users/UserResults'
-import UsersSearch from '../components/users/UsersSearch'
+import UserSearch from '../components/users/UserSearch'
 
 function Home() {
   return (
     <>
-  <UsersSearch />
+  <UserSearch />
        <UserResults />
         
     </>
